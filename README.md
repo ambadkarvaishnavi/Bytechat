@@ -22,9 +22,7 @@
   </a>
   <img src="https://img.shields.io/github/repo-size/rtewari056/bitchat.svg?label=Repo%20size" height="20" alt="Repo size">
   <img src="https://img.shields.io/github/languages/top/rtewari056/bitchat" height="20" alt="GitHub top language">
-  <a href="./LICENSE">
-    <img src="https://img.shields.io/github/license/rtewari056/bitchat" height="20" alt="MIT License">
-  </a>
+ 
   </div>
 
 </div>
@@ -48,7 +46,6 @@
 
 ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)&nbsp;
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)&nbsp;
 
 **Database:**
